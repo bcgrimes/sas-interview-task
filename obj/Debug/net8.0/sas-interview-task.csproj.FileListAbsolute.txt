@@ -1,0 +1,14 @@
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\bin\Debug\net8.0\sas-interview-task.exe
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\bin\Debug\net8.0\sas-interview-task.deps.json
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\bin\Debug\net8.0\sas-interview-task.runtimeconfig.json
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\bin\Debug\net8.0\sas-interview-task.dll
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\bin\Debug\net8.0\sas-interview-task.pdb
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.AssemblyInfoInputs.cache
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.AssemblyInfo.cs
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.csproj.CoreCompileInputs.cache
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.dll
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\refint\sas-interview-task.dll
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.pdb
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\sas-interview-task.genruntimeconfig.cache
+C:\Users\Brett\Documents\Projects\SAS\sas-interview-task\obj\Debug\net8.0\ref\sas-interview-task.dll

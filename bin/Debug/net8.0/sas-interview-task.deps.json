@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sas-interview-task/1.0.0": {
+        "runtime": {
+          "sas-interview-task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sas-interview-task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
