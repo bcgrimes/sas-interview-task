@@ -75,7 +75,7 @@ TODOS
 
 * Have an ETL class to handle the data input and create the Invoice instances
 * Move the user input code into its own class
-* Upgrade the sort builder class to a true Builder pattern that accepts Sort class instances to support the use of different sort algorithm implementations
+* Refactor the sort builder class to a true Builder pattern that accepts Sort class instances to support the use of different sort algorithm implementations
 	** Add sort algorithm choices to the user input options 
 * Add start arguments for options to support scripted testing 
 * Expand the test suite with larger generated data sets
